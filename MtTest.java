@@ -4,6 +4,6 @@ import static org.junit.Assert.*;
 public class MtTest {
     @Test 
     public void divisionTest(){
-        assertEquals(1, Mt.division(4, 1));
+        assertEquals(4, Mt.division(4, 1));
     }
 }
